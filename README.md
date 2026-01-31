@@ -26,7 +26,5 @@ To build and visualize a Decision Tree model using scikit-learn for classificati
 - Accuracy: 100%
 - Visualized decision tree
 
-### Author
-Manasvi Jitendra Kharat
 # Decision-Tree-Implementation
-Decision Tree model using scikit-learn (Internship Task – CodTech)
+Decision Tree model using scikit-learn (Internship Task1 – CodTech)
